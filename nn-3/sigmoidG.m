@@ -1,0 +1,1 @@
+function [gg] = sigmoidG(g) % gradient of sigmoid function        gg = g .* (1 - g)end
